@@ -1,0 +1,5 @@
+.text-stroke {
+  color: currentColor;
+  -webkit-text-stroke: 1px currentColor;
+  text-shadow: 0 0 0 currentColor;
+}
